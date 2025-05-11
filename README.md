@@ -21,4 +21,4 @@ Search for more sensitive files after connecting to target machine
 <br>
 Full guide on thm bruteit meachine.pdf
 <br>
-https://github.com/avwrgit123/Guide-to-solve-thm-bruteit-meachine/blob/main/Tryhackme%20bruteit%20meachine%20en.pdf
+https://github.com/avwrgit123/Guide-to-solve-thm-bruteit-meachine/blob/main/Tryhackme%20bruteit%20meachine.pdf
